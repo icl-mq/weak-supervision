@@ -1,0 +1,1074 @@
+{"text": "ebu3b.rm-1200c..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4262..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.%capacty", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4140..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4256..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-4146..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3134..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1231..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2203..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3254..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3215..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2258.acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 14, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4213..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4122..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3148..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4231..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4154..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1223..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2272..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1200c..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2256..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4242..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3252..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1231..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1208b..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4107..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2217..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2230..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2119..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2227..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.hw-sys.hwp1-alm", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-1126..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1150..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3217..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4258..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4130..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240a..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2xxx..supflo avg %", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}]}
+{"text": "ebu3b.rm-3114..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.hwp1.status", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 11, "end": 17, "label": "POINT"}]}
+{"text": "ebu3b.rm-1208..ef2-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}]}
+{"text": "ebu3b.hwp1.pid-ctrl", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 11, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3102..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.main-fan", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4110..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.sf3.ai2-actual", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2138..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.fschw.chwp4-alm", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.chwp1.ref-1", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-b260a..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4258..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3138..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4252..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3230..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1115..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b260..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3122..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1124..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3146..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-1.hi-humd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4105..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1130..fan-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4236..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3207..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2240..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b260a..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b260a..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2126..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3154..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1132..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2244..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3109..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3144..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3207..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3146..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.sf1.current", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 17, "label": "POINT"}]}
+{"text": "ebu3b.rm-3119..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4205..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4240..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4132..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4148..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4142..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2118..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rf1.current", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 17, "label": "POINT"}]}
+{"text": "ebu3b.rm-3207..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2209..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1218..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4252..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1200b..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b230a..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4213..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2134..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3128..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-b200c..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1..pm2ti", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4226..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b220..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.sf2.flt reset", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-3110..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-2132..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2127..occhtgfl", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1106..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4215..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1132..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2230..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3xxx..3rd-avg", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}]}
+{"text": "ebu3b.rm-4207..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1.sf1-f", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2136..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1155..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1.rf3-ss", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2126..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chwp4-vfd.dir-sts", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b103..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3236..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3221..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2203..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.loss-air", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.crac-1.temp-tol", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1116..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu2_enthalpy", "spans": []}
+{"text": "ebu3b.rm-4254..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.fschw.chwp-db", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 12, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-4119..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4213..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2229a..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 25, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3102..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2258.actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 14, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b225..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4213..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.pow-loss", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3207..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1223..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3208..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3202..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2102..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1151..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4105..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4150..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2138..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1231..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4107..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2215..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rf1.run enable", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2107..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2215..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1108..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2240..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-b215..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-2270..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3200a..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4214..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b230..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3111..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4236..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2105..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3258..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b260..fan-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2134..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4148..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.crac-1.compres2", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-b240a..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1212..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2266..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3127..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1122..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3107..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.crac-2.stages", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3134..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3252..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3107..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2250..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4121..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.chwp3-vfd.dir-sts", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.sf4.flt reset", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-3119..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4136..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1116..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3240..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1134..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1229..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4119..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chwp4-vfd.acc-time", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3119..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4140..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2266..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b215..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3105..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4142..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1110..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3130..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2142..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4126..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2102..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1229..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2146..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1100a..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1203..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2118..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.hi-head1", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2258.dpr-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 14, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-b225..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rf3.run enable", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "bsbm_wind-spd", "spans": []}
+{"text": "ebu3b.rm-3xxx..3rd flr avg clg-pid1", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}]}
+{"text": "ebu3b.rm-4252..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4144..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3152..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-4148..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4202..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.crac-2.loss-air", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4203..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4134..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4258..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3136..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3223..supflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1134..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chwp2.flt reset", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4219..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3121..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1126..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3102..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3111..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2230..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4242..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.fschw.chwp3-dly", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-3140..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4130..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1208..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2138..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.sf3.torque", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 16, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1.ra-ll", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 12, "end": 17, "label": "POINT"}]}
+{"text": "ebu3b.rm-1208..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2136..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2128..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4142..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3254..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-1.standby", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3258..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2214..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3111..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2112..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3127..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.chwp1.do1 cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-b270..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4150..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1104..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.humdfier", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4236..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu2_wind-dir", "spans": []}
+{"text": "ebu3b.rm-4154..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2230..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2214..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1132..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.chwp4-vfd.dir-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1218..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1125..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chwp4-vfd.run-time", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b230a..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2215..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3246..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-2144..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chwp1.pct-act", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 12, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-b250a..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3240..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1117..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3214..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-1.local-1", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-3250..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.sf1.do1 cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.ah1-1.fltr-dp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 12, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-1133..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4127..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3208..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3221..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1117..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1117..fan-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2102..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3215..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b200b..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4110..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1218..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1221..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3154..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.chwp-sys.chw-lead", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240a..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4111..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2121..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-b270..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-2219..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4258..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4154..fan-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2232..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.crac-2.lohum-stpt", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2107..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3107..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.compres2", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.hwp2.fault", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 11, "end": 16, "label": "POINT"}]}
+{"text": "ebu3b.rm-3127..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "bsbm_enthalpy", "spans": []}
+{"text": "ebu3b.rm-2266..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2118..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1203..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1116..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4152..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4121..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2112..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3114..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "bsbm_rh", "spans": []}
+{"text": "ebu3b.rm-2219..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2208..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4146..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2127..boxmode", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.humd-tol", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.chwp3-vfd.hoa-sts", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4136..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3114..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1221..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3242..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1123..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b220..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3252..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3230..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3126..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3154..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2102..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4134..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-b220..occ-sen", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b200b..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 25, "label": "POINT"}]}
+{"text": "ebu3b.rm-3107..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3102..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-b270..fan-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.crac-1.humidity", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4236..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3xxx..3rd flr avg clg-pid3", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}]}
+{"text": "ebu3b.rm-3144..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-b260..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-2.stby-fan", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4215..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1106..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4213..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4240..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1236..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4154..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.chwp4-vfd.flt-rst", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b210..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4134..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4136..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2221..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4144..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240..co2-hi alarm", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4140..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1223..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3152..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1218..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1229..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-2130..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b215..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.hw-sys.mtws-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3262..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3154..fan-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2218..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2134..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1115..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3254..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4250..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3152..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3114..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2116..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1144..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2150..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.crac-1.lotemp-stpt", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3111..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4107..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.heating", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2148..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4130..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1108..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2136..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2266..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2126..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1100d..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.hwp1.flt reset", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.chw-sys.chwp2-alm", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-1106..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3136..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4236..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.local-1", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4246..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4219..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.chwp2.ai1-actual", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4215..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3126..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1212..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4226..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.crac-2.loss-h2o", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-1217..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2112..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3208..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4110..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "tuning points.cwdp-pid..pm6ti", "spans": []}
+{"text": "ebu3b.rm-3154..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b230a..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3252..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1231..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b270..co2-level", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2236..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-2.unit-sts", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1.rf3-f", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-3127..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4208..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2266..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240a..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4122..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4128..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.lohum-stpt", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chw-sys.chwp1-sts", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.sf3.freq-output", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4215..ef5-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}]}
+{"text": "ebu3b.rm-4220..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3250..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b230..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2138..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4230..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4207..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b260a..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1108..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3111..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3128..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1107..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3136..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3148..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3134..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.sf3.current", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 17, "label": "POINT"}]}
+{"text": "ebu3b.rm-3220..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1116..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2109..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2203..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2121..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3154..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1151..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3200b..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2112..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2250..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b260..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-b270..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2108..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2116..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rf3.direction", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-1223..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3202..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4231..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1224..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2130..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2112..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1123..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3126..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2109..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2250..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.sf1.torque", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 16, "label": "POINT"}]}
+{"text": "ebu3b.rm-4xxx..4th-avg", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}]}
+{"text": "ebu3b.rm-3202..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2130..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1100a..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4105..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2270..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2148..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2148..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1207..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chwp4-vfd.drv-rdy", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4205..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2227..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1236..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.stages", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-4118..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3205..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2244..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2136..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b250a..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3106..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1223..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2154..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rf2.ao1-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2105..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3213..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4109..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2130..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2154..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3121..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2244..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-2.lo-temp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3118..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4240..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4128..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2221..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.sf1.ai2-actual", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-b260..co2-hi alarm", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4252..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2226..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4254..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3106..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.fschw.chwp3-vfd", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-1221..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2144..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chw-sys.chwp1-alm", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-3260..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2107..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2221..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4213..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2128..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3152..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b250..fan-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4107..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2140..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2146..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4126..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2262..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b109..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.lo-humd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1104..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2138..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4121..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2109..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3203..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1125..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4220..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3258..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3107..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1156..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3200b..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3111..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2234..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3200a..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 25, "label": "POINT"}]}
+{"text": "ebu3b.rm-3240..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4110..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1144..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "tuning points.cwdp-pid..pm6pb", "spans": []}
+{"text": "ebu3b.rm-3107..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4132..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.hwp2.ai1-actual", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2226..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2138..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "tuning points.hwdp-pid..hwdp-pid", "spans": [{"start": 24, "end": 32, "label": "POINT"}]}
+{"text": "ebu3b.rm-3144..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4126..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b275..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2127..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3236..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2116..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.hwp1.curr-lim", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 11, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-4226..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4110..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2226..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2142..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2232..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2200a..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 25, "label": "POINT"}]}
+{"text": "ebu3b.rm-3150..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4217..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2128..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.glycool", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3152..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.chwp4-vfd.flt-sts", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2272..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3236..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rf1.status", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 16, "label": "POINT"}]}
+{"text": "ebu3b.rm-1115..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1.rf4-f", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-1231..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "tuning points.dhw-pid..pm9pb", "spans": []}
+{"text": "ebu3b.rm-2200a..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b275..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3203..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2256..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2102..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1102..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-bxxx..bsmt avg clg-pid1", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.chw-sys.cwdp-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 14, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.sf1.status", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 16, "label": "POINT"}]}
+{"text": "ebu3b.rm-3226..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.smoke", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 18, "label": "POINT"}]}
+{"text": "ebu3b.rm-4130..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4132..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1221..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.sf3.run enable", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2217..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.crac-2.heating", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4130..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3121..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3213..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3111..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1132..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.crac-1.inv-byps", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1144..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4146..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1130..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4246..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4231..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b224..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-2244..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2226..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2200a..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4106..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4150..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4208..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1229..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3202..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.econocyc", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4202..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rf3.flt reset", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4109..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b275..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.crac-1.tempsetf", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3208..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3146..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1106..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3217..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2109..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3146..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3242..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.unit-run", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3144..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2209..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3232..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4118..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1231..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2108..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.server room.leak-shutdown", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 18, "end": 31, "label": "POINT"}]}
+{"text": "ebu3b.rm-4220..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1213..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2111..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1150..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rf4.pid-ctrl", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 18, "label": "POINT"}]}
+{"text": "ebu3b.rm-1145..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2218..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.load shed..mtw-dp load shed", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-b260a..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4202..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.chwp1.ref-2", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-1154..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1100a..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-b215..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3142..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b260..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4109..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1123..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3208..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.shortcyc", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4208..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1230..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4205..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2122..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-4219..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1110..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1155..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1208b..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4119..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4219..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1122..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rf4.pan lock", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2200a..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1124..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.hwp2.run enable", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4220..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3109..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3134..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chwp3-vfd.k-energy", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1203..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4208..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1212..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.sf4.direct-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2221..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2234..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1230..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3242..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b230a..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-b220..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2272..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4130..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3240..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3122..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4138..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-b230..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4202..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2236..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3150..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-1132..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-b250..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1154..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2207..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3256..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1117..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2140..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.lotemp-stpt", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1134..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4231..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3262..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1154..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.sf3.direction", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-1155..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3232..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4240..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-1100a..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3102..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1151..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1116..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3213..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4246..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3111..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240..fan-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2218..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-4114..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-2230..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2200a..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1113..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2140..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2108..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3240..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4148..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2232..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b224..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4146..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b250..co2-hi alarm", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-1115..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3220..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3202..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1208b..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3240..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3246..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3140..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-3232..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2208..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1107..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3200b..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4200a..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4215..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3132..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2140..fan-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2256..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1224..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1134..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2xxx..2nd flr avg clg-pid5", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}]}
+{"text": "ebu3b.rm-2128..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1229..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b260a..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.unit-loc", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3208..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.hi-head1", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.hw-sys.hx2-iso", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2127..dmprpos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4126..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3217..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1.sa-hl", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 12, "end": 17, "label": "POINT"}]}
+{"text": "ebu3b.rm-4126..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3121..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4146..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.temp-tol", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2221..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240..co2-level", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.chwp4-vfd.voltage", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu2_azimuth", "spans": []}
+{"text": "ebu3b.rm-1109..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b250a..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3107..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2126..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1100d..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2238..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4230..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.crac-1.compres1", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4122..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1.rf4-f", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.crac-4.econocyc", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2121..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4146..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b224..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2154..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2127..supflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1221..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4230..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4122..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-2111..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.inv-byps", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.hw-sys.dhw-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3219s..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.sf3.ai1-actual", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4105..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b250a..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1212..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2218..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2148..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3202..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.off-locl", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3221..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b224..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4111..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4217..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1218..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2229a..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1208b..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2142..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2231..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.fschw.chwp4-dly", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-3105..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3246..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2132..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b200c..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b230..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.chwp4-vfd.ena-sts", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4232..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-4122..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b215..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4219..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chwp2.do2 cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-1132..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4150..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4200a..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 25, "label": "POINT"}]}
+{"text": "ebu3b.rm-4254..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1104..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b220..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b102c..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b240a..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4258..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2146..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4220..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-4152..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b215..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3230..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4230..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1212..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1107..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.hwp1.do2 cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-b222..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4202..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2116..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1217..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b250..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4226..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2250..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.crac-2.standby", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4148..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2118..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4202..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2244..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.stby-fan", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.chwp3-vfd.run-time", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1221..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.server room.rm-h", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 18, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1.sf1-sts", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4232..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3136..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.hwp1.pct-act", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 11, "end": 18, "label": "POINT"}]}
+{"text": "ebu3b.rm-4203..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chwp1.pid gain", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-b250a..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3105..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4240..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2236..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3109..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2218..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3260..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3207..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2218..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3217..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1.sf2-f", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4106..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1..pm9edb", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.crac-4.unit-run", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.lo-humd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.chwp4-vfd.k-energy", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1207..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2232..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-1145..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1236..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2142..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3220..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.ah-1..dasp-hi in", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-3226..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1213a..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 25, "label": "POINT"}]}
+{"text": "ebu3b.rm-1236..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1123..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3127..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3254..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.ah1-1.rf2-f", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4140..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b230..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4200a..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4109..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3215..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-2227..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-3.humd-pan", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3140..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2118..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4111..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1130..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-230..co2-hi alarm", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 12, "label": "ROOM"}]}
+{"text": "ebu3b.rm-4140..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4213..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2256..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1217..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4110..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1154..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4105..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2118..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2150..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rf1.direction", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-2240..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2231..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1200b..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1217..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4217..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4152..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chw-sys.chwp2-sts", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4152..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2111..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b109..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2207..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1130..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2234..occ-s", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-b200c..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b103a..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 25, "label": "POINT"}]}
+{"text": "ebu3b.rm-2119..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b210..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.chwp2.status", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 12, "end": 18, "label": "POINT"}]}
+{"text": "ebu3b.rm-2150..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.sf1.ref-1", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2232..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.sf1.freq-output", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3250..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4134..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3134..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4214..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-b220..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1100a..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4232..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4122..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3246..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2122..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.hwp2.ao1-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2102..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4134..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4252..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3258..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3236..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4240..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2108..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "tuning points.dhw-pid..pm9ti", "spans": []}
+{"text": "ebu3b.rm-b260..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2105..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4215..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3220..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4144..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1102..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3130..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3122..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3215..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3205..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3132..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3205..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1139..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3220..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.crac-1.unit-run", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3254..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-3114..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.server room.ld-sw", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 18, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3226..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3148..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4136..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4106..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1231..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b200c..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-4219..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1200a..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1230..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1130..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4230..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4119..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1217..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.sf4.direction", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 10, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.chwp4-vfd.dec-time", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3232..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rf4.ref-2", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-4127..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-2108..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1150..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1236..acthtgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3118..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.hwp1.pan lock", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2122..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2217..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3132..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3122..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1213a..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 14, "label": "ROOM"}, {"start": 16, "end": 25, "label": "POINT"}]}
+{"text": "ebu3b.rm-3105..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2140..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-4.no-e-pow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4130..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2221..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-1133..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3138..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2111..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-1107..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.chwp3-vfd.power", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-4105..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4136..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.ah-1..dasp hi out", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.crac-3.local-2", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-3213..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3136..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-2227..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2148..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4219..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.hx..osa high span", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-3226..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2272..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4236..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2134..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1116..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3142..rh-vlv", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 21, "label": "POINT"}]}
+{"text": "ebu3b.rm-b210..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3232..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3152..w-c-adj", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4236..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-4202..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1212..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1126..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3107..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-b230a..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2244..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3130..dmpr-pos", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4231..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4138..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1108..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-3260..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-2231..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-1102..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-1223..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4232..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4258..dpr-c", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-3154..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-4144..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2258.zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 14, "end": 18, "label": "POINT"}]}
+{"text": "ebu3b.rm-3215..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-2.temp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 17, "label": "POINT"}]}
+{"text": "ebu3b.rm-1236..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-1145..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2148..actclgsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2119..sup-flow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.crac-2.glycool", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 13, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-1124..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu2_rh", "spans": []}
+{"text": "ebu3b.sf2.run enable", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-3246..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-1134..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu3b.rm-1155..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-2107..htgflow", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-4118..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rf4.run enable", "spans": [{"start": 0, "end": 5, "label": "BLD"}]}
+{"text": "ebu3b.rm-2144..t-occ", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 20, "label": "POINT"}]}
+{"text": "ebu3b.rm-b200b..htgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4232..clgpid-o", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 23, "label": "POINT"}]}
+{"text": "ebu3b.rm-2105..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-b260a..commonsp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 16, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-1207..clgminflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3106..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-3119..zn-t", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 19, "label": "POINT"}]}
+{"text": "ebu2_zenith", "spans": []}
+{"text": "ebu3b.rm-2226..occ-cmd", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 22, "label": "POINT"}]}
+{"text": "ebu3b.rm-3122..clgmaxflo", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.rm-4240..supflo-sp", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 6, "end": 13, "label": "ROOM"}, {"start": 15, "end": 24, "label": "POINT"}]}
+{"text": "ebu3b.hwp2.curr-lim", "spans": [{"start": 0, "end": 5, "label": "BLD"}, {"start": 11, "end": 19, "label": "POINT"}]}
