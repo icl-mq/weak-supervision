@@ -1,8 +1,12 @@
+
 # Weak Supervision
 
 [Description](#description)
 
-This repository contains companion code for the paper "". If you use these codes in your research, we would appreciate if you cite the following paper:
+This repository contains companion code for the paper "**Deploying Data-Driven Applications in Smart Buildings: Metadata Mapping Using
+Weak Supervision**". If you use these codes in your research, we would appreciate if you cite the following paper:
+
+> David Waterworth, Subbu Sethuvenkatraman and Quan Z. Sheng (2022), "Deploying Data-Driven Applications in Smart Buildings: Metadata Mapping Using Weak Supervision", Preprint.
 
 [Requirements](#requirements)
 
